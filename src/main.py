@@ -1,6 +1,8 @@
 '''!
 @file     main.py
 @brief    Main script for execution of Lab 04.
+@details  This programs performs a step response on a
+          RC circuit.
 @author   Cade Liberty
 @author   Juan Luna
 @author   Marcus Monroe

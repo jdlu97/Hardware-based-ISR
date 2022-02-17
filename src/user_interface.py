@@ -1,5 +1,6 @@
 ''' @file    user_interface.py
     @brief   Implements a user interface for Lab 04.
+    @details 
     @author  Cade Liberty
     @author  Juan Luna
     @author  Marcus Monroe
@@ -40,7 +41,7 @@ if __name__ == '__main__':
         while True:
             if print_flag == False:
                 if input_flag == False:
-                    print('Enter any key')
+                    print('Please, press enter to start step response: ')
                     send(input())
                     print("Recording...")
                     input_flag = True
