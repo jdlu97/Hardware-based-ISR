@@ -5,7 +5,7 @@
  
  First, we created an output pin object, and a ADC pin object. The step response plot of the voltage output through the RC circuit is shown below (**Figure 1**).
  
- ![Step response with Kp = 0.3, period = 10 ms](https://github.com/jdlu97/Lab-4/blob/main/src/step_response.png?raw=true)
+ ![Step response with Kp = 0.3, period = 10 ms](https://github.com/jdlu97/Lab-4/blob/main/src/step_response.jpg?raw=true)
  
  **Figure 1:** Voltage step response of RC circuit with values **R = 100 ohms** and **C = 3.35x10^6 nano-ferrads** with data collection of **800 ms**.
  
