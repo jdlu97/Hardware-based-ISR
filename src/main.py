@@ -1,12 +1,9 @@
-'''!
-@file     main.py
-@brief    Main script for execution of Lab 04.
-@details  This programs performs a step response on a
-          RC circuit.
-@author   Cade Liberty
-@author   Juan Luna
-@author   Marcus Monroe
-@date     February 17, 2022
+'''!    @file       main.py
+        @brief      Main script for execution of Lab 04.
+        @details    This programs performs a step response on an RC circuit.
+        @author     Juan Luna
+        @date       2022-02-17 Original file
+        @date       2022-12-30 Modified for portfolio update
 
 '''
 import pyb

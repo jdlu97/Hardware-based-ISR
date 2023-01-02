@@ -1,7 +1,6 @@
-# Lab 04: We Interrupt This Program...
- This repository contains the source code and documentation for Lab 4 of ME 405 (Mechatronics) course at California Polytechnic State University.
+# We Interrupt This Program...
  
- In this laboratory exercise, we wrote and tested interrupt-based code using the STM32 Nucleo microcontroller and an RC circuit connected to it. We wrote an interrupt callback function to read ADC values on an analog pin and additional code that would save the data on a queue. Likewise, we adapted our previously-developed user interface to send user input (a simple "press enter" prompt) to the main program that initiated a step response and receive data from a queue using serial communication. The user interface also included printing and plotting functionality to visually show the step response (in the form of ADC reading as a function of time).
+ In this project, we wrote and tested interrupt-based code using the STM32 Nucleo microcontroller and an RC circuit connected to it. We wrote an interrupt callback function to read ADC values on an analog pin and additional code that would save the data on a queue. Likewise, we adapted our previously-developed user interface to send user input (a simple "press enter" prompt) to the main program that initiated a step response and receive data from a queue using serial communication. The user interface also included printing and plotting functionality to visually show the step response (in the form of ADC reading as a function of time).
  
  On the electrical aspect of the project, we had an RC circuit made from a 100-ohm resistor and a 3.35e+6 nano-farads capacitor.
  
