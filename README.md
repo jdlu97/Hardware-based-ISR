@@ -4,7 +4,7 @@
  
  On the electrical aspect of the project, we had an RC circuit made from a 100-ohm resistor and a 3.35e+6 nano-farads capacitor.
  
- The step response plot of one of our test runs is shown below (**Figure 1**) for a 1000-ms data collection.
+ The step response plot of one of our test runs is shown below for a 1000-ms data collection.
 
  <p align="center">
     <img src="https://github.com/jdlu97/Hardware-based-ISR/blob/main/img/step_response.jpg?raw=true" alt="Step response of RC circuit"/>
