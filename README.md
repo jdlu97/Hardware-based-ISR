@@ -13,7 +13,7 @@
  <p align="center">Step response for the RC-circuit with a time-constant of about <b>360 ms</b>.</p><br/>
  
  As we can see from the plot, the ADC readings reach 63% of the steady state value, 2,580 ADC in this case, at around **360 ms**. 
- This 63% of the final value number corresponds with the time constant value of the first-order RC circuit. This value closely matches with the calculated time constant from theory, using the equation: $t=RC$, where $t = 100$ &Omega; x $3.35x10^-3 F = 0.335$ seconds.
+ This 63% of the final value number corresponds with the time constant value of the first-order RC circuit. This value closely matches with the calculated time constant from theory, using the equation: $t=RC$, where $t = 100$ &Omega; x $3.35x10^{-3} F = 0.335$ seconds.
  
  The observed time constant of 360 ms is 7.2% greater than the calculated 335 ms value. This is a reasonable number considering the errors of up to 25% that can be observed with electronics. Our observed time constant value is taken with low resolution. However , even with a much more conservative value estimate of 400 ms, it is still only has a 19% error and is within reason. 
  
